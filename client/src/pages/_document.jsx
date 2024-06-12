@@ -7,6 +7,9 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+      <div id='photo-pricker-element'>
+
+      </div>
       </body>
     </Html>
   );
